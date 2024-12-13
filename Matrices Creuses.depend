@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1649639815 source:c:\users\dell\onedrive\documents\cours\alsds - alsdd\programmes c\tp matrices creuses\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblio.h"
+	"biblio.c"
+
+1649638987 c:\users\dell\onedrive\documents\cours\alsds - alsdd\programmes c\tp matrices creuses\biblio.h
+	<stdio.h>
+	<stdlib.h>
+
+1650450344 c:\users\dell\onedrive\documents\cours\alsds - alsdd\programmes c\tp matrices creuses\biblio.c
+	"biblio.h"
+	<stdio.h>
+	<stdlib.h>
+
