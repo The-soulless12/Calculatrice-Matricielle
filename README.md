@@ -8,7 +8,7 @@ Calculatrice matricielle implémentée en langage C, utilisant des listes linéa
 
 # Fonctionnalités
 - Lecture et affichage : Chargement dynamique de matrices creuses et affichage.
-- Opérations logiques : Non, ET, OU, OU exclusif sur les matrices.
+- Opérations logiques : Non, ET, OU & OU exclusif sur les matrices.
 - Opérations arithmétiques : Addition et multiplication de matrices.
 - Transposée : Calcul de la transposée d'une matrice.
 - Extraction : Extraction de sous-matrices.
